@@ -1,1 +1,4 @@
+This is merge file:
 This is file in local repository.
+This is conflict file on remote repository.
+
