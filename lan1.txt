@@ -1,2 +1,7 @@
 "lan1" 
+
+Merge 2 file lai voi nhau:
+
 Sua o local
+
+sua tren repo
